@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-channel-activity-analysis
+description: "BIAN Service Domain: Channel Activity Analysis (Analyze pattern, Sales and Service)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - analyze
+annotations:
+  bian/business-area: "Sales and Service"
+  bian/business-domain: "Channels"
+  bian/asset-type: "Channel Activity Model"
+  bian/control-record: "Channel Activity Model Analysis"
